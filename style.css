@@ -120,6 +120,10 @@ h1 { font-size: 4em;
     h1 { font-size: 2.5em;
     }
 }
+@media (max-width: 400px) {
+    h1 { font-size: 2em;
+    }
+}
 
 a{
     color: black;
